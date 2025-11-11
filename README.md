@@ -4,7 +4,10 @@ This repository is to develop investment utilities for use by value investors an
 The pages below describe my value investing philosophy that I plan to codify for use by other investors. With time I expect to build this into a comprehensive investment platform for both retail and professional value investors.
 
 ## Key Value Investing Pages
-[Main Astute Investor's Calculus Website](https://astuteinvestorscalculus.com)
+[Main Astute Investor's Calculus website](https://astuteinvestorscalculus.com)  
+[Diversified investment portfolio](https://astuteinvestorscalculus.com/build-a-diversified-value-portfolio/)  
+[fama and french 3 factor model](https://astuteinvestorscalculus.com/fama-and-french-3-factor-model/)  
+
 
 ## Screening Criteria
 
@@ -19,10 +22,10 @@ The pages below describe my value investing philosophy that I plan to codify for
 
 
 ## Social Profiles
-
+[X](https://x.com/investastutely)
 
 ## Reddit Groups
-[Optimized Value] (https://www.reddit.com/r/optimizedvalue/)
+[Optimized Value](https://www.reddit.com/r/optimizedvalue/)
 
 ## Tools and Resources
-[Stock Rover] (https://www.stockrover.com/astuteinvestorscalculus/)
+[Stock Rover](https://www.stockrover.com/astuteinvestorscalculus/)
